@@ -1,0 +1,6 @@
+[book]
+authors = ["Lissu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Notes of Bioinformatics in Action by Shisu Li"
